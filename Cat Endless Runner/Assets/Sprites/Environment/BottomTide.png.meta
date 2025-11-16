@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 07cf7bdc54dda1f49bac41d4d0f06fcd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1014664929808073354
+    second: waterfall-autotiles-anim_0
+  - first:
+      213: -946728501144921405
+    second: waterfall-autotiles-anim_1
+  - first:
+      213: 9035550276809254027
+    second: waterfall-autotiles-anim_2
+  - first:
+      213: -3677231360130319040
+    second: waterfall-autotiles-anim_3
+  - first:
+      213: 599363051372854443
+    second: waterfall-autotiles-anim_4
+  - first:
+      213: 3696169299868888637
+    second: waterfall-autotiles-anim_5
+  - first:
+      213: -2662924254457828475
+    second: waterfall-autotiles-anim_6
+  - first:
+      213: 7381668624301971753
+    second: waterfall-autotiles-anim_7
+  - first:
+      213: -5031008845580064106
+    second: waterfall-autotiles-anim_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9662652f8f5c746b6c61d2ee27ec97
+      internalID: -1081741952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bab6735a04afc9479e8f14de77e5853
+      internalID: -320026007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c364b3a5381f845a77e3f8836b124e
+      internalID: 1182112626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43362ffb9726e2843929dd3ca4b9cd25
+      internalID: -638465688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 42a9b84d4dea7aa46921c0d9e1fd347d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":16.0,"y":16.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      1: -638465688
+      2: 1182112626
+      3: -320026007
+      4: -1081741952
+      waterfall-autotiles-anim_0: 1014664929808073354
+      waterfall-autotiles-anim_1: -946728501144921405
+      waterfall-autotiles-anim_10: -288065653
+      waterfall-autotiles-anim_11: -1177846228
+      waterfall-autotiles-anim_12: -2044522401
+      waterfall-autotiles-anim_13: 722377691
+      waterfall-autotiles-anim_14: -1464594857
+      waterfall-autotiles-anim_15: 777175544
+      waterfall-autotiles-anim_2: 9035550276809254027
+      waterfall-autotiles-anim_20: 1815340740
+      waterfall-autotiles-anim_21: -313155406
+      waterfall-autotiles-anim_22: -1994513000
+      waterfall-autotiles-anim_23: 65714367
+      waterfall-autotiles-anim_24: -1264804995
+      waterfall-autotiles-anim_25: 1983502954
+      waterfall-autotiles-anim_26: -312568557
+      waterfall-autotiles-anim_27: -1815409173
+      waterfall-autotiles-anim_28: 709948754
+      waterfall-autotiles-anim_29: -1114620650
+      waterfall-autotiles-anim_3: -3677231360130319040
+      waterfall-autotiles-anim_30: 1808880329
+      waterfall-autotiles-anim_31: -920885148
+      waterfall-autotiles-anim_32: -2048462103
+      waterfall-autotiles-anim_33: 1613375823
+      waterfall-autotiles-anim_34: 1063042518
+      waterfall-autotiles-anim_35: -419617864
+      waterfall-autotiles-anim_4: 599363051372854443
+      waterfall-autotiles-anim_5: 3696169299868888637
+      waterfall-autotiles-anim_6: -2662924254457828475
+      waterfall-autotiles-anim_7: 7381668624301971753
+      waterfall-autotiles-anim_8: -5031008845580064106
+      waterfall-autotiles-anim_9: -7224010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
